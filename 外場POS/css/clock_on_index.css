@@ -1,0 +1,24 @@
+hr.online_booking_header {
+    width: 80%;
+    margin: 0 auto;
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 20), rgba(0, 0, 0, 0));
+}
+
+.hr_ver {
+    border-left: 1px solid #38546d;
+    height: 97%;
+    position: absolute;
+    left: 150px;
+    top: 10px;
+    box-shadow: 1px 1px 1px #444;
+}
+
+body {
+    background-color: #E0E0E0;
+}
+
+button {
+    box-shadow: 2px 2px 2px #444;
+}

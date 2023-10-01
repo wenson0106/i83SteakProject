@@ -1,0 +1,33 @@
+.nav-tabs .nav-link.active {
+    color: #ffffff;
+    background-color: #121111;
+    border-color: #ffffff #ffffff #E0E0E0;
+    font-size: 22px;
+}
+
+button {
+    box-shadow: 2px 2px 2px #444;
+}
+
+body {
+    background-color: #E0E8F0;
+}
+
+.nav-tabs .nav-link {
+    color: #000000;
+    margin-bottom: -1px;
+    background: 0 0;
+    border: 1px solid transparent;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    background-color: #ffffff;
+    border-color: #000000 #000000 #E0E0E0;
+    font-size: 18px;
+}
+
+.content {
+    background-color: #979797;
+    border-radius: 5px;
+    border: 2px #6e6565 solid;
+    box-shadow: 2px 2px 2px #444;
+}
