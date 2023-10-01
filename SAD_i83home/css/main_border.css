@@ -1,0 +1,38 @@
+.main_border
+{
+    border-top: 2px solid #ddd;
+    border-bottom: 2px solid #ddd;
+    border-left: 2px solid #ddd;
+    border-right: 2px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.thead_border
+{
+    border-bottom-style:solid;
+    border-bottom-width: medium;
+    border-bottom-color:black;
+}
+
+.tbody_border
+{
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-color:gray;
+}
+
+.fig
+{
+    text-align: center;
+    height: 82%;
+}
+
+.bg-opacity
+{
+    opacity: 0.9 !important;    
+} 
+
+.row{
+    margin-left: -10px;    
+}
