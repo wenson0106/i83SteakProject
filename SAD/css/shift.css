@@ -1,0 +1,19 @@
+.pop1NoonFull{
+  position:fixed;display:flex;justify-content:center;align-items:center;
+  width:50%;height:60%;border:1px solid #888888;background-color: #eeeeee;
+  box-shadow: #000000; 
+}
+.weekday
+{
+  background-color: gray;color:white;
+}
+.td_point
+{
+  
+  cursor:pointer;
+  overflow:auto;
+}
+.scroll{
+  height:50px;
+}
+

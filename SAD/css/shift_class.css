@@ -1,0 +1,20 @@
+.time_remind{
+    border-width: 3px ; padding: 10px; text-align: center; background-color: rgb(41, 105, 176, 0.7);border-radius: 4px; 
+}
+.checkbox_div{
+    border-width: 3px ; padding: 10px; margin: 10px; text-align: center; background-color: rgba(134, 119, 106, 0.884);border-radius: 4px;
+}
+.main{
+    background-color:rgba(167, 163, 163, 0.829); border-width: 3px ; padding: 10px; text-align: center;margin-top: 5%;border-radius: 6px; 
+}
+.enter_successfully{
+    border-width: 3px ; padding: 8px; text-align: center; background-color: rgba(223, 233, 132, 0.7);border-radius: 2px; 
+}
+.model_design{
+    background-color: rgba(245, 247, 247, 0.842)rgba(103, 158, 101, 0.7);
+}
+
+.font-ch
+{
+    font-family: "Microsoft JhengHei";
+}
